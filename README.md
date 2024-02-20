@@ -1,8 +1,8 @@
 ## Back-end Developer
 
-- 👋 Hi, I’m @Dublioros
+- 👋 Hi, I’m Jose
 - 👀 I’m interested in software, animes, mangas and tech industry
-- 🌱 I’m a fullstack developer with knowledge in CSS/HTML/JavaScript/Java/Spring
+- 🌱 I’m a fullstack developer with knowledge in CSS/HTML/JavaScript/Java/Spring/Python
 - 💞️ I’m looking to collaborate on with anyone who likes to code
 - 📫 How to reach me throught here or my linkedIn
 
