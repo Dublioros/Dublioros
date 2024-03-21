@@ -1,12 +1,13 @@
-## Back-end Developer
+# Hi there, I'm Jose! 👋
 
-- 👋 Hi, I’m Jose
-- 👀 I’m interested in software, animes, mangas and tech industry
-- 🌱 I’m a fullstack developer with knowledge in CSS/HTML/JavaScript/Java/Spring/Python
-- 💞️ I’m looking to collaborate on with anyone who likes to code
-- 📫 How to reach me throught here or my linkedIn
+I'm a passionate Back-end Developer, with a knack for all things software, animes, mangas, and tech industry. 
 
-<!---
-Dublioros/Dublioros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm a Full Stack Developer proficient in CSS, HTML, JavaScript, Java, Spring, and Python.
+
+- 💼 Currently working as a Back-end Developer at Alticsa
+- 🎓 Oracle Certified Junior Programmer
+
+Let's connect and build awesome things together:
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/josecarlogutierrezschweitzer/)
+
+Check out my repos and let's code some cool stuff! 🚀
