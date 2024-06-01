@@ -2,7 +2,7 @@
 
 I'm a passionate Back-end Developer, with a knack for all things software, animes, mangas, and tech industry. 
 
-🌱 I'm a Full Stack Developer proficient in CSS, HTML, JavaScript, Java, Spring, and Python.
+🌱 I'm proficient in CSS, HTML, JavaScript, Java, Spring, and Python.
 
 - 💼 Currently working as a Back-end Developer at Alticsa
 - 🎓 Oracle Certified Junior Programmer
