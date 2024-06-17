@@ -2,10 +2,11 @@
 
 I'm a passionate Back-end Developer, with a knack for all things software, animes, mangas, and tech industry. 
 
-🌱 I'm proficient in CSS, HTML, JavaScript, Java, Spring, and Python.
+🌱 I'm proficient in CSS, HTML, JavaScript, Java, Spring, MySQL, and Python.
 
 - 💼 Currently working as a Back-end Developer at Alticsa
 - 🎓 Oracle Certified Junior Programmer
+- 💻 Software Engineering at 42 Madrid
 
 Let's connect and build awesome things together:
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/josecarlogutierrezschweitzer/)
