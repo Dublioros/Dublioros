@@ -9,8 +9,8 @@ I'm a passionate Back-end Developer, with a knack for all things software, anime
 - 💻 Software Engineering at 42 Madrid
 
 Let's connect and build awesome things together:
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/josecarlogutierrezschweitzer/)
-- 🌍 [Stack Overflow] https://stackoverflow.com/users/22500219/jose-carlo
+- 📫 You can reach me on:
+-  [LinkedIn](https://www.linkedin.com/in/josecarlogutierrezschweitzer/)
 - [Stack Overflow](https://stackoverflow.com/users/22500219/jose-carlo/)
 
 Check out my repos and let's code some cool stuff! 🚀
