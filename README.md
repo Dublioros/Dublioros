@@ -10,5 +10,7 @@ I'm a passionate Back-end Developer, with a knack for all things software, anime
 
 Let's connect and build awesome things together:
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/josecarlogutierrezschweitzer/)
+- 🌍 [Stack Overflow] https://stackoverflow.com/users/22500219/jose-carlo
+- [Stack Overflow](https://stackoverflow.com/users/22500219/jose-carlo/)
 
 Check out my repos and let's code some cool stuff! 🚀
