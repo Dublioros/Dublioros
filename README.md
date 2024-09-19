@@ -6,7 +6,7 @@ I'm a passionate Back-end Developer, with a knack for all things software, anime
 
 - 💼 Currently working as a Back-end Developer at Alticsa
 - 🎓 Oracle Certified Junior Programmer
-- 💻 Software Engineering at 42 Madrid
+- 💻 Software Engineering Student at 42 Madrid
 
 Let's connect and build awesome things together:
 - 📫 You can reach me on:
